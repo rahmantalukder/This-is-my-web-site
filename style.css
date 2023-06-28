@@ -3,7 +3,8 @@ body{
     margin: 0px;
     padding: 0px;
 }
-img{
+img{   
+    padding: 10px;
    
 }
 header{
